@@ -161,7 +161,7 @@ span {
 /** HERO SECTION **/
 
 .hero-section {
-    background-image: url("../CLONE Img/IMAGES/hero_image.jpg");
+    background-image: url("./IMAGES/hero_image.jpg");
     background-size: cover;
     height: 350px;
     display: flex;    
@@ -269,7 +269,7 @@ ul p {
 }
 
 .foot-logo {
-    background-image: url("../CLONE Img/IMAGES/amazon_logo.png");
+    background-image: url("./IMAGES/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
